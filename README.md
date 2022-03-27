@@ -1,2 +1,2 @@
 # AR-Gym-Simulation
-It is a Augmented Reality application made with Unity and Vuforia SDK in which you can see simulation of gym. There is guy standing in a gym with which you can interact for various workout simulations.
+It is a Augmented Reality simulation. The game is created for smartphone with the same interaction as on any 6 DoF like Oculus or HTC Vive using patented TehcXR Developer Kit. In the app you have to place the augmentable cube which is a part of developer kit in front of your camera then you can see a guy standing in a gym. There is a list of workout in the top left corner and you can select any of the workout and then the guy start performing that workout.
